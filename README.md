@@ -3,10 +3,10 @@
 <!--  [![trophy](https://github-profile-trophy.vercel.app/?username=Hem-Inder-Singh)](https://github.com/ryo-ma/github-profile-trophy) -->
  ![trophy](https://github-profile-trophy.vercel.app/?username=Hem-Inder-Singh&theme=flat&title=Repository,Commits,Joined2020)<br><br>
  
-- 🔭 I like working on Artificial Intelligence, Robotics,Sensors and real world projects.
+- 🔭 I like working on <b>Artificial Intelligence, Machine Learning, Robotics,Sensors and real world projects.</b>
 - 🌱 I’m currently learning <b>HTML, CSS, Javascript, Android, springBoot.</b>
 - 👨‍💻  All of my projects are available at https://www.github.com/Hem-Inder-Singh?tab=repositories
-- 💬 Ask me about Java,Python, C,C++,MySQL, Data Structures, Arduino.
+- 💬 Ask me about <b>Java, Python, C, C++, MySQL, Data Structures, Arduino.
 ## Connect with me:<br>
 <b>Linkedin: </b>https://www.linkedin.com/hem-inder-singh<br>
 <b>HackerRank: </b>https://www.hackerrank.com/hemindermajithia<br>
