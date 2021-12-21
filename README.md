@@ -5,7 +5,6 @@
  
 - 🔭 I like working on Artificial Intelligence, Robotics,Sensors and real world projects.
 - 🌱 I’m currently learning <b>HTML, CSS, Javascript, Android, springBoot.</b>
-- 🤔 I’m looking for help with .
 - 👨‍💻  All of my projects are available at https://www.github.com/Hem-Inder-Singh?tab=repositories
 - 💬 Ask me about Java,Python, C,C++,MySQL, Data Structures, Arduino.
 ## Connect with me:<br>
