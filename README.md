@@ -4,7 +4,7 @@
  ![trophy](https://github-profile-trophy.vercel.app/?username=Hem-Inder-Singh&theme=flat&title=Repository,Commits,Joined2020)<br><br>
  
 - 🔭 I like working on <b>Artificial Intelligence, Machine Learning, Robotics,Sensors and real world projects.</b>
-- 🌱 I’m currently learning <b>HTML, CSS, Javascript, Android, springBoot.</b>
+- 🌱 I’m currently learning <b>HTML, CSS, Javascript, Android,Kotlin, springBoot.</b>
 - 👨‍💻  All of my projects are available at https://www.github.com/Hem-Inder-Singh?tab=repositories
 - 💬 Ask me about <b>Java, Python, C, C++, MySQL, Data Structures, Arduino.
 ## Connect with me:<br>
