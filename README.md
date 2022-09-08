@@ -3,8 +3,8 @@
 <!--  [![trophy](https://github-profile-trophy.vercel.app/?username=Hem-Inder-Singh)](https://github.com/ryo-ma/github-profile-trophy) -->
  ![trophy](https://github-profile-trophy.vercel.app/?username=Hem-Inder-Singh&theme=flat&title=Repository,Commits,Followers,Joined2020)<br><br>
  
-- 🔭 I like working on <b></b>
-- 🌱 I’m currently learning <b>HTML, CSS, Javascript,SpringBoot.</b>
+- 🔭 I like working as a<b>Software Engineer</b>
+- 🌱 I’m currently learning <b>HTML, CSS, Javascript,SpringBoot,DevOps, Cloud.</b>
 - 👨‍💻  All of my projects are available at https://www.github.com/Hem-Inder-Singh?tab=repositories
 - 😄 Pronouns: He/His/Him
 - 💬 Ask me about <b>Java, Python, C, C++, MySQL, Data Structures, Arduino.
